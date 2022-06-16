@@ -28,5 +28,10 @@ Here are some ideas to get you started:
  <hr/>
   ###Git Stats
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IwegbuJeddy)](https://git.io/streak-stats)
+  ![](https://visitor-badge.laobi.icu/badge?page_id=IwegbuJeddy.IwegbuJeddy)
+  [![Github](https://img.shields.io/github/followers/IwegbuJeddy?label=Follow&style=social)](https://github.com/IwegbuJeddy)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IwegbuJeddy&show_icons=true&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IwegbuJeddy&theme=tokyonight)
+  
   
 </div>

@@ -27,8 +27,8 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
  <hr/>
  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IwegbuJeddy)](https://git.io/streak-stats)
-  ![](https://visitor-badge.laobi.icu/badge?page_id=IwegbuJeddy.IwegbuJeddy)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IwegbuJeddy)](https://git.io/streak-stats&theme=tokyonight)
+  ![](https://visitor-badge.laobi.icu/badge?page_id=IwegbuJeddy.IwegbuJeddy&theme=tokyonight)
   [![Github](https://img.shields.io/github/followers/IwegbuJeddy?label=Follow&style=social)](https://github.com/IwegbuJeddy)
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IwegbuJeddy&show_icons=true&theme=tokyonight)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IwegbuJeddy&theme=tokyonight)
